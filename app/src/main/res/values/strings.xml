@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tes_uts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lokasi_saat_ini">LokasiSaatIni</string>
+    <string name="t1">Lokasi Saat Ini</string>
+    <string name="t2">Pencarian Lokasi</string>
+    <string name="t3">Titik Lokasi Sekarang</string>
+    <string name="judul_lapor">FORM PELAPORAN LOKASI\nKEBAKARAN</string>
+    <string name="serviceUnaviable">Service Unaviable</string>
+    <string name="invalid">Invalid</string>
+    <string name="not_found">404 Not Founde</string>
+    <string name="awal">Lokasi Saat Ini</string>
+    <string name="izin_ditolak">Izin ditolak</string>
+</resources>
